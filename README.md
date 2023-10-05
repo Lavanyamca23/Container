@@ -1,4 +1,4 @@
-**# Graphics-Animation of the Random-walk**
+**#Random-Ball**
 
         The project is track movement of the ball. Now that have created many balls on the screen, it is
         time to make them move and bounce when it is edges
