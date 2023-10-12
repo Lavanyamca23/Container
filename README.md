@@ -1,10 +1,16 @@
-**#Random-Ball**
+BOUNCING BALL
 
-        The project is track movement of the ball. Now that have created many balls on the screen,
-        it is time to make them move and bounce when it is edges
+Description:
 
-        **Steps to Run Project Step 1**: Drag the index file into the browser.
+Elevate the animation by enabling user input for modifying the ball's movement, incorporating elements like keyboard and mouse controls, as well as introducing obstacles or targets to enhance interactivity.
 
-        **Step 2:** Once you run the project many balls will appears and moves with random position and velocity.
+How to run the code:
 
-        Future improvements The project can enchanced by adding more animation to random walk.
+Step1:Save the HTML file with a .html extension.
+
+Step2:Click the "Go Live" button to open a new browser window displaying the Bouncing_Ball animation.
+
+Future improvement:
+
+consider integrating user interaction like click-and-drag functionality, customizable ball properties, and physics-based interactions, such as ball collisions, for a more engaging and interactive animation.
+
